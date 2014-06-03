@@ -21,6 +21,9 @@ gen/
 classes/
 gen-external-apklibs/
 
+# build files
+RestApiSdk/app/build/
+
 # maven output folder
 target
 
