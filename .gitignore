@@ -4,7 +4,7 @@
 # built application files
 *.apk
 *.ap_
-*.jar
+# *.jar # a jar dependency is included in the repo
 
 # lint files
 lint.xml
